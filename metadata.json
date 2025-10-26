@@ -1,0 +1,5 @@
+{
+  "name": "Messenger",
+  "description": "A prototype of an encrypted messaging application, featuring smart replies powered by the Gemini API to enhance user conversations.",
+  "requestFramePermissions": []
+}
